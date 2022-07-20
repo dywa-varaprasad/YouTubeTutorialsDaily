@@ -1,1 +1,1 @@
-# YouTubeTutorialsDaily
+# YouTubeTutorials JavaScript Mastery Course
