@@ -6,5 +6,36 @@ let myFavoriteLanguage ="JavaScript";
 let addNumToStr = myFavoriteLanguage + " ES" + 6;
 // adding a string with a Number will Concatenate the statement means just combines two expressions into one. and makes it a string 
 console.log(addNumToStr);
-//see below for string concatenate.
+// JavaScript ES 6;
+
+/*search typeof operator for concatenated variable and find
+what's the data type 
+see below for string concatenate.*/
+
 console.log(typeof addNumToStr)
+//String 
+
+
+/*create a const Object, can you change the value of
+ any key with another data type */
+
+const profileOfCreator = {
+name: "Brendan Eich",
+developerOf: "JavaScript",
+age:61,
+inventedYear:1995,
+presentStatus:"MDN"
+}
+
+//Changing values manually
+
+profileOfCreator.presentStatus=5;
+
+console.log(profileOfCreator.presentStatus)
+// value changed even defined with const also
+
+//try to add new key-value pair to the existing one
+
+
+
+
