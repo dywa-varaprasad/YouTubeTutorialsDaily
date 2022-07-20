@@ -1,0 +1,10 @@
+
+//create a variable of String Type and add a Number to it observe it
+
+let myFavoriteLanguage ="JavaScript";
+
+let addNumToStr = myFavoriteLanguage + " ES" + 6;
+// adding a string with a Number will Concatenate the statement means just combines two expressions into one. and makes it a string 
+console.log(addNumToStr);
+//see below for string concatenate.
+console.log(typeof addNumToStr)
