@@ -1,41 +1,36 @@
 
-//create a variable of String Type and add a Number to it observe it
+//Q-01.create a variable of String Type and add a Number to it observe it
 
 let myFavoriteLanguage ="JavaScript";
 
-let addNumToStr = myFavoriteLanguage + " ES" + 6;
+let addNumToStr = /myFavoriteLanguage + " ES" + 6;
 // adding a string with a Number will Concatenate the statement means just combines two expressions into one. and makes it a string 
 console.log(addNumToStr);
-// JavaScript ES 6;
 
-/*search typeof operator for concatenated variable and find
-what's the data type 
-see below for string concatenate.*/
 
+//Q-02.check ee below for string concatenate.
 console.log(typeof addNumToStr)
-//String 
+
+//Q.03 create a const object can it hold a number again?
+
+const object={name:"hari",style:"superb",time:2}
+/*let object= 5;
+error seen as object has been already been declared.
+*/
+
+//Q.04 try to a new key-value in the previous object is it possible?
+
+//yes by [.] dot notation
+
+object.bakery="cake";
+object.varsiry=8;
+// object's property key-values can change even when declaration with cosnt Because, const only reference for the property but not the key-value pairs
 
 
-/*create a const Object, can you change the value of
- any key with another data type */
+console.log(object)
 
-const profileOfCreator = {
-name: "Brendan Eich",
-developerOf: "JavaScript",
-age:61,
-inventedYear:1995,
-presentStatus:"MDN"
-}
+//Q.05 write a program for a dictionary
 
-//Changing values manually
+const dictionary ={hardwork:"a great deal of effort or endurance",paid:"past and past participle of pay", skill:"the ability to do something well,expertise"}
 
-profileOfCreator.presentStatus=5;
-
-console.log(profileOfCreator.presentStatus)
-// value changed even defined with const also
-
-//try to add new key-value pair to the existing one
-
-
-
-
+console.log(dictionary )
