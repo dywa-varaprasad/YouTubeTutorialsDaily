@@ -1,5 +1,5 @@
 let a = prompt("Hello, Enter you age?");
-a = Number.parseInt(a); // Converting the string to a number
+a = Number(a); // Converting the string to a number
 
 if(a<0){
   alert("This is an invalid entry");
