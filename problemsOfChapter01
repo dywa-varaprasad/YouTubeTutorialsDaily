@@ -1,22 +1,29 @@
 
 //Q-01.create a variable of String Type and add a Number to it observe it
+//initialising a variable declaration
+let myFavoriteLanguage; 
+//assigning a variable declarartion
+myFavoriteLanguage ="JavaScript";
 
-let myFavoriteLanguage ="JavaScript";
+// string concatenation any thing with a string can combined into a single string
+let addNumToStr = myFavoriteLanguage + " ES" + 6;
 
-let addNumToStr = /myFavoriteLanguage + " ES" + 6;
+
 // adding a string with a Number will Concatenate the statement means just combines two expressions into one. and makes it a string 
 console.log(addNumToStr);
 
 
-//Q-02.check ee below for string concatenate.
+//Q-02.check below for string concatenation. typeof operator is a unary operator which shows us the what's is the datatype of an expression
 console.log(typeof addNumToStr)
 
-//Q.03 create a const object can it hold a number again?
+
+//Q.03 create a const object; can  you re-assign it  to hold a number?
 
 const object={name:"hari",style:"superb",time:2}
-/*let object= 5;
-error seen as object has been already been declared.
-*/
+
+/* below code will through you an error
+let object= 5;
+error seen as object has been already been declared.*/
 
 //Q.04 try to a new key-value in the previous object is it possible?
 
@@ -25,9 +32,8 @@ error seen as object has been already been declared.
 object.bakery="cake";
 object.varsiry=8;
 // object's property key-values can change even when declaration with cosnt Because, const only reference for the property but not the key-value pairs
-
-
 console.log(object)
+
 
 //Q.05 write a program for a dictionary
 
