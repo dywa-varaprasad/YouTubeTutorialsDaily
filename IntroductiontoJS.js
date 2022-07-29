@@ -39,4 +39,26 @@ console.log(object)
 
 const dictionary ={hardwork:"a great deal of effort or endurance",paid:"past and past participle of pay", skill:"the ability to do something well,expertise"}
 
-console.log(dictionary )
+console.log(dictionary ) //-->{hardwork:"a great deal of effort or endurance",paid:"past and past participle of pay", skill:"the ability to do something well,expertise"}
+
+
+//functions introdution
+
+console.log("This program adds 1, 2 and 54") //--> this program adds 1,2 and 54
+
+// creating a function to add three nums
+function addThreeNumbers(a, b, c) {
+    return a + b + c;
+}
+
+// assigning the function expression to the c varible
+let c = addThreeNumbers(1, 2, 54)
+console.log(c) //--> 57
+
+
+// console.log is the way to see the output in developing stage for the debugging purpose
+
+
+
+
+
