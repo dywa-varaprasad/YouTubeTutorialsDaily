@@ -7,6 +7,10 @@
 - variables
 - conditionals
 - switch statements
+- functions ( function expression & arrow functions)
+- loops 
 - arrays
 - string Methods
 - array methods
+
+## updated daily
