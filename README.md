@@ -5,7 +5,8 @@
 - Introduction
 - DataTypes
 - variables
-- 
--
--
-
+- conditionals
+- switch statements
+- arrays
+- string Methods
+- array methods
