@@ -1,5 +1,4 @@
-# JavaScript Mastery Course.
-
+# JavaScript Course 
 ## youtubeTutorials follow along daily [course link](YouTube.com/codewithharry)
 ### Topics Covered.
 - Introduction
@@ -7,10 +6,15 @@
 - variables
 - conditionals
 - switch statements
-- functions ( function expression & arrow functions)
+- functions ( expressions, arrow functions)
 - loops 
 - arrays
 - string Methods
 - array methods
+- higher Order functions
+--hii
 
-## updated daily
+### updated daily
+
+#### pushing from mobile/Laptop  according to availability 
+
