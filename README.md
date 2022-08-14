@@ -1,6 +1,7 @@
 # JavaScript Course 
-## youtubeTutorials follow along daily [course link](YouTube.com/codewithharry)
-### Topics Covered.
+## Youtube Tutorials follow along daily [course link](YouTube.com)
+
+### Topics Covered (updated daily)
 - Introduction
 - DataTypes
 - variables
@@ -14,7 +15,6 @@
 - higher Order functions
 --hii
 
-### updated daily
 
-#### pushing from mobile/Laptop  according to availability 
+##### pushing from mobile/Laptop  according to availability 
 
