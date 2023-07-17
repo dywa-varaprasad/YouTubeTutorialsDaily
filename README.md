@@ -13,7 +13,7 @@
 - string Methods
 - array methods
 - higher Order functions
---hii
+
 
 
 ##### pushing from mobile/Laptop  according to availability 
